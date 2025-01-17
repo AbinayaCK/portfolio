@@ -311,8 +311,8 @@ h1 span{
     font-size: 14px;
 }
 
-#portfolio{
-   
+#portfolio,#about,#resume,#contact{
+    background-color: #f9f9f9;
 } 
 
 #portfolio .image-wrapper {
@@ -413,7 +413,7 @@ h1 span{
 
 #testimonials {
     background-color: #f9f9f9;
-    padding: 60px 0;
+   
 }
 
 #testimonials .container {
@@ -475,7 +475,7 @@ h1 span{
     transform: scale(1.1);
     transition: transform 0.3s ease-in-out;
 }
-#contact, .contact-details{
+.contact-details{
     padding: 20px;
 }
 
