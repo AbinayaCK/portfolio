@@ -4,6 +4,11 @@ body{
     color: black;
    
 }
+nav .container-fluid{
+    position: fixed;
+    background:linear-gradient(to right, rgb(55, 53, 53),  rgb(75, 74, 74) ,rgb(63, 62, 62));
+    top: 0;
+}
 .navbar{
     position: absolute;
     width: 100%;
